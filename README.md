@@ -22,6 +22,12 @@ make clean
 
 4x6.vcp is the input file that contains the features of four vehicles and six containers. Feel free to create your own and test with it.
 
+Vehicle features are:
+CPU, Memory, Disk, Time Available, Position at t, Position at t+1.
+
+Micro-Service / Container features are:
+CPU, Memory, Disk, Service ID.
+
 ## Output
 
 The output is generated in the results folder
