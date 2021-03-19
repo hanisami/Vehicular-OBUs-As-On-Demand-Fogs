@@ -1,4 +1,4 @@
-# Vehicular-OBUs-As-On-Demand-Fogs
+# Vehicular-OBUs-As-On-Demand-Fogs (Evolutionary Memetic Algorithm)
 
 The repository contains the code for running the experiments of the evolutionary memetic algorithm of the paper [Vehicular-OBUs-As-On-Demand-Fogs: Resource and Context Aware Deployment of Containerized Micro-Services](https://ieeexplore.ieee.org/document/9032323). This paper was published in IEEE/ACM Transactions on Networking (Volume: 28, Issue: 2, April 2020).
 
